@@ -1,0 +1,4 @@
+~/ISCC-000> Exo _01-2.txt
+ISCC session 2020
+Portier, Nathan
+
